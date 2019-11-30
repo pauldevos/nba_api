@@ -70,6 +70,7 @@ __all__ = [
     'playerfantasyprofile',
     'playerfantasyprofilebargraph',
     'playergamelog',
+    'playergamelogs',
     'playergamestreakfinder',
     'playernextngames',
     'playerprofilev2',
@@ -180,6 +181,7 @@ from .playerdashboardbyyearoveryear import PlayerDashboardByYearOverYear
 from .playerfantasyprofile import PlayerFantasyProfile
 from .playerfantasyprofilebargraph import PlayerFantasyProfileBarGraph
 from .playergamelog import PlayerGameLog
+from .playergamelogs import PlayerGameLogs
 from .playergamestreakfinder import PlayerGameStreakFinder
 from .playernextngames import PlayerNextNGames
 from .playerprofilev2 import PlayerProfileV2
